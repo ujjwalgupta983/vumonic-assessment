@@ -1,4 +1,4 @@
-# Node.js Rest API Assessment
+# Node.js REST API Assessment
 
 The problem is to create basic API using Node.js. I used express, mongodb as database and postman for testing API calls.I also Created a cluster on mongodb atlas for validating API's.
 
