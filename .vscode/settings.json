@@ -1,0 +1,7 @@
+{
+  "cSpell.ignoreWords": [
+    "authorization",
+    "vumonic"
+  ],
+  "debug.node.autoAttach": "on"
+}
